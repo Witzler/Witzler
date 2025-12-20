@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=witzler&label=Profile%20views&color=0e75b6&style=flat" alt="witzler" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=witzler" alt="witzler" /></a> </p>
+- 🌱 I’m currently learning **Go, React**
+
+- 💬 Ask me about **Nothing**
+
+- ⚡ Fun fact **𝕐𝕠𝕦 𝕗𝕠𝕣𝕘𝕖𝕥 𝕒 𝕥𝕙𝕠𝕦𝕤𝕒𝕟𝕕 𝕥𝕙𝕚𝕟𝕘𝕤 𝕖𝕧𝕖𝕣𝕪 𝕕𝕒𝕪, 𝕞𝕒𝕜𝕖 𝕤𝕦𝕣𝕖 𝕥𝕙𝕚𝕤 𝕚𝕤 𝕠𝕟𝕖 𝕠𝕗 𝕥𝕙𝕖𝕞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
