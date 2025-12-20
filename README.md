@@ -96,9 +96,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=witzler&show_icons=true&locale=en&layout=compact" alt="witzlerlangs" /></p>
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=witzler&show_icons=true&locale=en&layout=compact" alt="witzlerlangs" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=witzler&show_icons=true&locale=en" alt="witzlerstats" /></p>
+  <div style="clear: left; margin-top: 20px;">
+    <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=witzler&show_icons=true&locale=en" alt="witzlerstats" />
+    </p>
+  </div>
+</div>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/witzler?ext=heatmap)
 
