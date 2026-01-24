@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=witzler&label=Profile%20views&color=0e75b6&style=flat" alt="witzler" /> </p>
 
-- 🌱 I’m currently learning **Go, React**
+- 🌱 I’m currently learning **Go, React, Python**
 
 - 💬 Ask me about **nothing**
 
